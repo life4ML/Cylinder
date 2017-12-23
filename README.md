@@ -3,4 +3,5 @@ using  ML method to detect cylinders and recognize numbers and characters on the
 
 
 start
-23/12/2017       waiting for raw input and looking for several methods
+23/12/2017       
+waiting for raw input and looking for several methods
